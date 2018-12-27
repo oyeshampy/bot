@@ -10,4 +10,10 @@
     <category><pattern>WHAT IS INDIA</pattern>
         <template>wonderful country.</template>
     </category>
+    <category><pattern>ARE YOU OK</pattern>
+        <template>I am fine.</template>
+    </category>
+    <category><pattern>GO TO HELL</pattern>
+        <template>No need to say that.</template>
+    </category>
 </aiml>
